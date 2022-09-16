@@ -9,13 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6a9d4953504aa4b429d16ab5a760da03, type: 3}
+  m_Script: {fileID: 11500000, guid: 6f8a105869519254f86a31387b8a0469, type: 3}
   m_Name: Question 5
   m_EditorClassIdentifier: 
-  question: You should never forget to tip your?
+  question: A variable can be thought of as what?
   answers:
-  - Waiter
-  - Fedora
-  - Andrew Tate
-  - Landlord
-  indexOfCorrectAnswer: 3
+  - Data that goes inside a box
+  - A box that can contain data
+  - Data that can't be changed
+  - Data that can only be used once
+  correctAnswerIndex: 1

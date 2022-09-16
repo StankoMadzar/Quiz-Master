@@ -12,7 +12,8 @@ public class ScoreKeeper : MonoBehaviour
         return correctAnswers;
     }
 
-    public void IncrementCorrectAnswers(){
+    public void IncrementCorrectAnswers()
+    {
         correctAnswers++;
     }
 
@@ -21,7 +22,8 @@ public class ScoreKeeper : MonoBehaviour
         return questionsSeen;
     }
 
-    public void IncrementQuestionsSeen(){
+    public void IncrementQuestionsSeen()
+    {
         questionsSeen++;
     }
 
