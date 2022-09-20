@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f8a105869519254f86a31387b8a0469, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
-  question: What are we doing when we "call a method"?
+  question: In case of financial diffculties, you should become what?
   answers:
-  - Naming our methods properly
-  - Telling the code inside a method to execute
-  - Returning a value form another place in code
-  - Phoning our actor friend
-  correctAnswerIndex: 1
+  - Ungovernable
+  - Poor
+  - The Gas Station
+  - Violent
+  correctAnswerIndex: 2

@@ -12,11 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f8a105869519254f86a31387b8a0469, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: If all other conditions are false, which conditional statement would
-    you use as a catch all?
+  question: Reject Humanity, return to what?
   answers:
-  - if
-  - else if
-  - else
-  - when
+  - Wife
+  - Violence
+  - Monke
+  - Milanovac
   correctAnswerIndex: 2
